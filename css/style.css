@@ -6,3 +6,10 @@
 body{
     background-color: #f2f2f289;
 }
+#conteudo{
+    padding: 7%;
+    
+}
+#bg-text{
+    background: url(/img/backgroung-text.svg);
+}

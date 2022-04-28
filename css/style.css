@@ -7,9 +7,12 @@ body{
     background-color: #f2f2f289;
 }
 #conteudo{
+    margin: 1% auto;
     padding: 7%;
+    border: solid;
     
 }
 #bg-text{
     background: url(/img/backgroung-text.svg);
+    border-radius: 20px;
 }

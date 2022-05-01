@@ -5,14 +5,20 @@
 }
 body{
     background-color: #f2f2f289;
+    width: 100vw;
+    height: 100vh;
 }
 #conteudo{
     margin: 1% auto;
     padding: 7%;
     border: solid;
+    background-color: #E5E5E5;
     
 }
 #bg-text{
     background: url(/img/backgroung-text.svg);
     border-radius: 20px;
+}
+#form-content{
+    justify-content: center;
 }

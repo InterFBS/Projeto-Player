@@ -1,2 +1,2 @@
 # Projeto-Player
-![Screenshot](img/Menu-de-cadastro.png)
+![Screenshot](img/menu-menu.png)
